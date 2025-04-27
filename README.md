@@ -12,14 +12,6 @@ The project aims to provide clear insights for business decision-making, focusin
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/asmita-baul/Global-Sales-Dashboard/blob/main/global_sales_dashboard.png?raw=true)
-
-*(Replace this link with your actual uploaded image link!)*
-
----
-
 ## 🔧 Tools Used
 - **Tableau** for visualization and dashboard creation
 - **Excel** for data cleaning and basic processing
